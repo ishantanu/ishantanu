@@ -8,7 +8,7 @@ I'm a Site Reliability Engineer (SRE) passionate about building robust, scalable
 - 🏢 Currently working as: **Senior Site Reliability Engineer**
 - 🌱 Currently learning: **Rust, Cloud-native automation, infrastructure as code, and new SRE best practices**
 - 🛠️ Favorite tech (in no particular order): **Go, Kubernetes, Terraform, LGTM (Loki, Grafana, Tempo, Mimir) stack, Python, Rust**
-- 💬 Ask me about: **Service Level Objectives (SLOs), Incident response, monitoring, CI/CD, automation**
+- 💬 Ask me about: **Service Level Objectives (SLOs), Incident response, Observability, CI/CD, Automation**
 - 📫 How to reach me: [Email](mailto:shantanud106@gmail.com)
 
 ## 🌐 Connect with me
