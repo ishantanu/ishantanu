@@ -43,10 +43,6 @@ I'm a Site Reliability Engineer (SRE) passionate about building robust, scalable
 - 🛠️ Building tools to automate toil.
 - ☕ Powered by espressos, dashboards, and memes.
 
-## 📈 GitHub Stats
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishantanu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishantanu&layout=compact&theme=tokyonight)
-
 ---
 
 > “The best SLO is the one you actually use.”
